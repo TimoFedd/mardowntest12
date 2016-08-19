@@ -16,3 +16,9 @@ Wirklich sehr spannend!
 * Erster Punkt
     * zweiter Punkt
 * Dritter Punkt
+
+```Java
+public void testMethode(int zahl){
+zahl++;
+}
+```
